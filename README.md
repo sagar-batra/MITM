@@ -1,6 +1,6 @@
 # MITM
 This script can be use to perform MITM attack in local network.
-Attacks that can be performed by thios script:
+Attacks that can be performed by this script:
 1. Capturing Images
 2. Replacing Images 
 3. Injecting HTML Code In Webpages
